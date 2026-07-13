@@ -142,19 +142,19 @@ Server3:
 
 Выделить диапазоны строк, которые будут распределены по серверам:
 - Таблица "customers"
-  Server1 - 1-4 rows
-  Server2 - 5-8 rows
-  Server3 - 8-10 rows
+  - server1 - 1-4 rows
+  - server2 - 5-8 rows
+  - server3 - 8-10 rows
   
 - Таблица "books"
-  Server1 - 1-4 rows
-  Server2 - 5-8 rows
-  Server3 - 8-10 rows
+  - server1 - 1-4 rows
+  - server2 - 5-8 rows
+  - server3 - 8-10 rows
   
 - Таблица "stores"
-  Server1 - 1-4 rows
-  Server2 - 5-8 rows
-  Server3 - 8-10 rows
+  - server1 - 1-4 rows
+  - server2 - 5-8 rows
+  - server3 - 8-10 rows
 
 При данной схеме серверы будут загружаны равномерно за счет сбалансированного распределенных диапазонов строк.
 
