@@ -126,7 +126,7 @@ Server3:
 
 При данной схеме серверы будут загружаны равномерно за счет сбалансированого распределения таблиц с часто и нечасто запрашиваемой информацией.
 
-[Scheme1](https://github.com/expgt/net-fops-hw-12-7/blob/main/1.png)
+![Scheme1](https://github.com/expgt/net-fops-hw-12-7/blob/main/1.png)
 
 
 2. Горизонтальный шардинг.
@@ -158,7 +158,7 @@ Server3:
 
 При данной схеме серверы будут загружаны равномерно за счет сбалансированного распределенных диапазонов строк.
 
-[Scheme2](https://github.com/expgt/net-fops-hw-12-7/blob/main/2.png)
+![Scheme2](https://github.com/expgt/net-fops-hw-12-7/blob/main/2.png)
 
 
 ---
